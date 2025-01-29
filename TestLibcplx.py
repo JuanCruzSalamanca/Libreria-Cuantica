@@ -1,4 +1,4 @@
-import LibrerÍa_Cuantica as lc
+import Libreria_Cuantica as lc
 import unittest
 
 class TestCplxOperation(unittest.TestCase):
